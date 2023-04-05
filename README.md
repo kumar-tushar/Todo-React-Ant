@@ -6,7 +6,7 @@
 First of all, clone this `repo`:
 
 ```sh
-$ git clone https://github.com/leonardopliski/react-antd-todo.git
+$ git clone https://github.com/kumar-tushar/Todo-React-Ant.git
 ```
 
 Move to the project dir:
