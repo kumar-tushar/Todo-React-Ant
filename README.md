@@ -21,3 +21,4 @@ With [Docker](https://www.docker.com/) just run:
 $ docker-compose up -d
 ```
 
+![Screenshot (245)](https://user-images.githubusercontent.com/56949668/230139759-4a5a34da-fd06-46d7-aeae-7707184561f8.png)
