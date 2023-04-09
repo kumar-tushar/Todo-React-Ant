@@ -12,7 +12,7 @@ $ git clone https://github.com/kumar-tushar/Todo-React-Ant.git
 Move to the project dir:
 
 ```sh
-$ cd Todo-React-Ant/
+$ cd Todo-React-Ant
 ```
 
 With Docker just run:
