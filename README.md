@@ -1,9 +1,9 @@
-# React & Ant Design Todo App
+# Todo App (React & Ant)
 
 
-## Usage
+## Quick Start
 
-First of all, clone this `repo`:
+clone this repo:
 
 ```sh
 $ git clone https://github.com/kumar-tushar/Todo-React-Ant.git
@@ -12,10 +12,10 @@ $ git clone https://github.com/kumar-tushar/Todo-React-Ant.git
 Move to the project dir:
 
 ```sh
-$ cd react-antd-todo/
+$ cd Todo-React-Ant/
 ```
 
-With [Docker](https://www.docker.com/) just run:
+With Docker just run:
 
 ```sh
 $ docker-compose up -d
