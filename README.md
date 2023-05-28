@@ -1,7 +1,4 @@
-# Todo App (React & Ant)
-
-
-## Quick Start
+#### Quick Start
 
 clone this repo:
 
