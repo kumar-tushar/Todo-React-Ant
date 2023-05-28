@@ -6,7 +6,7 @@
 clone this repo:
 
 ```sh
-$ git clone https://github.com/kumar-tushar/Todo-React-Ant.git
+$ https://github.com/kumar-tushar/Todo-React-Ant.git
 ```
 
 Move to the project dir:
